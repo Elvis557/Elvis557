@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Elvis Boateng, a Front end developer 👨‍💻👨‍💻.
+I'm Elvis Boateng, a software engineer from Ghana 👨‍💻👨‍💻.
 
 <!--
 **Elvis557/Elvis557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
