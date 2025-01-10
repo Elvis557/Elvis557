@@ -6,8 +6,7 @@
 <img align = "right" alt="coding" width="350" height="300"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis557&label=Profile%20views&color=0e75b6&style=flat" alt="elvis557" /> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <img style= "border-radius: 20px;">
 
 - 📫 How to reach me **elvisboateng557@gmail.com**
@@ -31,4 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis557&" alt="elvis557" /></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvis)
