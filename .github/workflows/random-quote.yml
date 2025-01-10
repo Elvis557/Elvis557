@@ -1,0 +1,29 @@
+name: Random Quote Updater
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get a random quote
+        run: |
+          # Pick a random quote
+          QUOTE=$(jq -r '.quotes | .[$RANDOM % . | length]' quotes.json)
+          
+          # Update the README file
+          sed -i "s|<!-- RANDOM_QUOTE -->|$QUOTE|" README.md
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update random quote"
