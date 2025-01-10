@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Elvis Boateng,</h1>
 <h3 align="center">A passionate Software Engineer from Ghana.</h3>
 
+
 <img align = "right" alt="coding" width="350" height="300"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis557&label=Profile%20views&color=0e75b6&style=flat" alt="elvis557" /> </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <img style= "border-radius: 20px;">
 
 - 📫 How to reach me **elvisboateng557@gmail.com**
@@ -16,6 +19,7 @@
 <a href="https://linkedin.com/in/elvis boateng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis boateng" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/el~dev | software developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="el~dev | software developer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/el-wise557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="el-wise557" height="30" width="40" /></a>
+<p><a href="https://www.buymeacoffee.com/Elvis"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Elvis"></a></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvis557&show_icons=true&locale=en" alt="elvis557" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis557&" alt="elvis557" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvis)
