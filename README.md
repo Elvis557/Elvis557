@@ -30,9 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis557&" alt="elvis557" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ## 💡 Random Developer Quote
 
-<!-- RANDOM_QUOTE -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
