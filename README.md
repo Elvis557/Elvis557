@@ -12,7 +12,7 @@
 - 📫 How to reach me **elvisboateng557@gmail.com**
 - 🔭 I’m currently working on **AI-driven projects** and **Web Development**.
 - 👯 I’m looking to collaborate with both **Front-end** and **Backend** developers.
-- 🌱 I’m currently learning backend, mobile app development, REACT, javascript, python.
+- 🌱 I’m currently learning backend, mobile app development, REACT, c#, javascript, python.
 - ⚡ Fun fact **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
