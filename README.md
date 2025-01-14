@@ -9,10 +9,10 @@
 
 <img style= "border-radius: 20px;">
 
-- 📫 How to reach me **elvisboateng557@gmail.com**.
+- 📫 How to reach me **elvisboateng557@gmail.com**
 - 🔭 I’m currently working on **AI-driven projects** , **Mobile App Development** and **Web Development**.
 - 👯 I’m looking to collaborate with both **Front-end** and **Backend** developers.
-- 🌱 I’m currently learning MERN stack, backend, mobile app development, REACT, c#, javascript, python.
+- 🌱 I’m currently learning MERN stack, backend, mobile app development, REACT, c#, javascript, python, java.
 - ⚡ Fun fact **I am funny 😅**.
 
 <h3 align="left">Connect with me:</h3>
