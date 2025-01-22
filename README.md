@@ -12,7 +12,7 @@
 - 📫 How to reach me **elvisboateng557@gmail.com**
 - 🔭 I’m currently working on **AI-driven projects** , **Mobile App Development** and **Web Development**.
 - 👯 I’m looking to collaborate with both **Front-end** and **Backend** developers.
-- 🌱 I’m currently learning MERN stack, backend, mobile app development, REACT, c#, javascript, python, java.
+- 🌱 I’m currently learning Mongo DB, Express js, React, Node js, backend, mobile app development, REACT, c#, javascript, python, java.
 - ⚡ Fun fact **I am funny 😅**
 - 💻 I love to code 😎.
 
