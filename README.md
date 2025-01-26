@@ -31,6 +31,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Elvis557)
 
+ ![Snake Animation](https://github.com/Elvis557/Elvis557/blob/output/github-contribution-grid-snake.svg)
+
 ## 💡 Random Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
