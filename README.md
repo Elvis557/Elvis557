@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning Mongo DB, Express js, React, Node js, backend, mobile app development, REACT, c#, javascript, python, java.
 - ⚡ Fun fact **I am funny 😅**.
 - 💻 I love to code 😎.
+- 💬 Ask me about Data Structures and Algorithm.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +34,6 @@
 ## 💡 Random Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
