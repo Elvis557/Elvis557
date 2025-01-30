@@ -36,7 +36,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🐍 Snake Animation  
-![Snake Animation](https://github.com/Elvis557/Elvis557/blob/output/github-contribution-grid-snake.svg)
 
 
