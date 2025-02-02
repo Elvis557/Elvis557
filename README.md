@@ -9,7 +9,7 @@
 
 <img style= "border-radius: 20px;">
 
-- 📫 How to reach me **elvisboateng557@gmail.com**.
+- 📫 How to reach me **elvisboateng557@gmail.com**
 - 🔭 I’m currently working on **AI-driven projects** , **Mobile App Development** and **Web Development**.
 - 👯 I’m looking to collaborate with both **Front-end** and **Backend** developers.
 - 🌱 I’m currently learning Mern Stack, backend, mobile app development, REACT, c#, javascript, python, java.
@@ -32,7 +32,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Elvis557)
 
  
-## 💡 Random Developer Quote
+**## 💡 Random Developer Quote**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
