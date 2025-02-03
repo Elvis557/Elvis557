@@ -32,7 +32,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Elvis557)
 
  
-**## 💡 Random Developer Quote**
+## 💡 Random Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
