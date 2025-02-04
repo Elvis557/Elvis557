@@ -1,5 +1,5 @@
 ![code](https://github.com/KIRAN-KUMAR-K3/banner/blob/main/Untitled%20design.png?raw=true)
-<h1 align="center">Hi 👋, I'm Elvis Boateng,</h1>
+<h1 align="center">Hi 👋, I'm Boateng Elvis,</h1>
 <h3 align="center"> a software engineer passionate about building innovative solutions.</h3>
 
 
