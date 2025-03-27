@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **AI-driven projects** , **Mobile App Development** and **Web Development**.
 - 👯 I’m looking to collaborate with both **Front-end** and **Backend** developers.
 - 🌱 I’m currently learning Mern Stack, php, mobile app development, REACT, c#, javascript, python, java.
-- ⚡ Fun fact **I am funny 😅**.
+- ⚡ Fun fact **I am Hilarious 😅**.
 - 💻 I love to code 😎.
 - 💬 Ask me about Data Structures and Algorithm.
 
