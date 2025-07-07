@@ -1,18 +1,21 @@
+<!-- ============ HEADER BANNER ============ -->
 <p align="center">
   <img src="https://github.com/KIRAN-KUMAR-K3/banner/blob/main/Untitled%20design.png?raw=true" alt="Banner" width="100%" style="border-radius:12px;">
 </p>
 
+<!-- ============ NAME & HEADLINE ============ -->
 <h1 align="center">Hi 👋, I'm Boateng Elvis</h1>
 <h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner</h3>
 
+<!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+I'm+Boateng+Elvis;Welcome+to+my+GitHub;Let's+build+amazing+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi+I'm+Boateng+Elvis;Empowering+people+through+code.;Let's+build+amazing+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
+<!-- ============ CONTACT BADGES ============ -->
 <p align="center">
   <a href="mailto:elvisboateng557@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/elvisboateng">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,31 +34,42 @@
 
 ---
 
-## ✨ Who Am I?
+## ✨ About Me
 
-🌟 I’m **Boateng Elvis**, a passionate software engineer dedicated to building solutions that **matter**.  
-💡 I love turning ideas into **beautiful, functional, and meaningful products**.  
-🧭 I believe technology should **empower** people and make life better.  
-🎨 I’m not just a coder—I’m a **problem solver, creative thinker, and lifelong learner**.
+👋 I'm **Boateng Elvis**, a passionate software engineer dedicated to building solutions that *matter*.  
+
+I transform ideas into **beautiful, functional, and impactful products**.  
+I believe technology should **empower people** and make life better.  
+I’m not just a coder—I’m a **problem solver**, a **creative thinker**, and a **lifelong learner**.  
 
 ---
 
 ## 🗺️ My Mission
 
-> *To use technology as a force for good by designing and developing impactful, reliable, and elegant software.*
+> *Use technology as a force for good by designing and developing impactful, reliable, and elegant software.*
 
 ---
 
 ## 🚀 What I'm Working On
 
-✅ **AI-driven projects**  
-✅ **Mobile App Development** (Flutter, React Native)  
-✅ **Web Development** (React, Node.js, PHP)  
-✅ Building my knowledge in **MERN Stack**, **C#**, **Java**, **Python**
+✅ AI-driven projects  
+✅ Mobile App Development (Flutter, React Native)  
+✅ Web Development (React, Node.js, PHP)  
+✅ Mastering MERN Stack, C#, Java, Python  
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🌟 My Values
+
+✔️ Quality over quantity  
+✔️ Empathy-driven design  
+✔️ Continuous learning  
+✔️ Clear communication  
+✔️ Collaboration is key  
+
+---
+
+## 💼 My Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" />
@@ -83,32 +97,13 @@
 
 ---
 
-## 💬 Let's Talk About
+## 💬 Let's Connect
 
-- Data Structures and Algorithms
-- System Design
-- Front-end and Back-end Development
-- Mobile App Development
-- AI and Machine Learning Ideas
-
----
-
-## 🌟 My Values
-
-✅ **Quality over quantity**  
-✅ **Empathy-driven design**  
-✅ **Continuous learning**  
-✅ **Clear communication**  
-✅ **Collaboration is key**  
-
----
-
-## 🎯 My Goals
-
-- 🚀 Master the MERN stack and advanced mobile development
-- 📚 Build robust, scalable, production-grade apps
-- 🤝 Collaborate with talented engineers worldwide
-- 🌱 Learn, grow, and give back to the tech community
+- Ask me about **Data Structures and Algorithms**  
+- System Design discussions? Count me in!  
+- Front-end and Back-end Development  
+- Mobile App Development  
+- AI and Machine Learning Ideas  
 
 ---
 
@@ -130,4 +125,4 @@
 
 ---
 
-> Made with ❤️ by Elvis Boateng
+> Crafted with ❤️ by Elvis Boateng
