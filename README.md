@@ -1,18 +1,18 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ========================== HEADER BANNER ========================== -->
 <p align="center">
   <img src="https://github.com/KIRAN-KUMAR-K3/banner/blob/main/Untitled%20design.png?raw=true" alt="Banner" width="100%" style="border-radius:12px;">
 </p>
 
-<!-- ============ NAME & HEADLINE ============ -->
-<h1 align="center">Hi 👋, I'm Boateng Elvis</h1>
+<!-- ========================== NAME & HEADLINE ========================== -->
+<h1 align="center">👋 Hey there, I'm Boateng Elvis</h1>
 <h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner</h3>
 
-<!-- ============ TYPING ANIMATION ============ -->
+<!-- ========================== TYPING ANIMATION ========================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi+I'm+Boateng+Elvis;Empowering+people+through+code.;Let's+build+amazing+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
 </p>
 
-<!-- ============ CONTACT BADGES ============ -->
+<!-- ========================== CONTACT BADGES ========================== -->
 <p align="center">
   <a href="mailto:elvisboateng557@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -36,48 +36,40 @@
 
 ## ✨ About Me
 
-👋 I'm **Boateng Elvis**, a passionate software engineer dedicated to building solutions that *matter*.  
+Hi! I'm **Boateng Elvis**, a passionate software engineer focused on creating **meaningful, elegant, and high-impact solutions**.  
 
-I turn ideas into **beautiful, functional, and impactful products**.  
-I believe technology should **empower people** and improve lives.  
-I'm not just a coder—I’m a **problem solver**, **creative thinker**, and **lifelong learner**.
+I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong learner**. My mission? **Empower people through technology**.
 
 ---
 
-## 🗺️ My Mission
+## 🚀 Current Focus
 
-> *Harness technology as a force for good by designing and developing impactful, reliable, and elegant software.*
-
----
-
-## 🚀 What I'm Working On
-
-✅ AI-driven projects  
-✅ Mobile App Development (Flutter, React Native)  
-✅ Web Development (React, Node.js, PHP)  
-✅ Mastering the MERN Stack, C#, Java, and Python  
+- 🤖 AI & Machine Learning Projects
+- 📱 Mobile App Development (Flutter, React Native)
+- 🌐 Web Development (React, Node.js, PHP)
+- 🔥 Mastering the MERN Stack, C#, Java, Python
 
 ---
 
-## 🌟 My Values
+## 🌟 Core Values
 
-✔️ Quality over quantity  
-✔️ Empathy-driven design  
-✔️ Continuous learning  
-✔️ Clear communication  
-✔️ Collaboration is key  
+✅ Quality over quantity  
+✅ Empathy-driven design  
+✅ Relentless learning  
+✅ Clear, honest communication  
+✅ Collaboration over competition  
 
 ---
 
-## 💼 My Tech Toolbox
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvis557&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -97,20 +89,23 @@ I'm not just a coder—I’m a **problem solver**, **creative thinker**, and **l
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let's Collaborate
 
-- Ask me about **Data Structures and Algorithms**  
-- System Design discussions? Count me in!  
-- Front-end and Back-end Development  
+🌱 *Open to conversations on:*  
+- Data Structures & Algorithms  
+- System Design  
+- Front-End / Back-End Development  
 - Mobile App Development  
-- AI and Machine Learning Ideas  
+- AI & Machine Learning Ideas  
+
+> 💡 *Collaboration begins with a simple hello!*
 
 ---
 
 ## 💡 Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 </p>
 
 ---
@@ -125,4 +120,6 @@ I'm not just a coder—I’m a **problem solver**, **creative thinker**, and **l
 
 ---
 
-> Crafted with ❤️ by Elvis Boateng
+<p align="center">
+  <b>Crafted with ❤️ by Elvis Boateng</b>
+</p>
