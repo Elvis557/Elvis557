@@ -15,16 +15,16 @@
 <!-- ============ CONTACT BADGES ============ -->
 <p align="center">
   <a href="mailto:elvisboateng557@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/elvisboateng">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.leetcode.com/el-wise557">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.youtube.com/@EL-Dev">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
@@ -38,15 +38,15 @@
 
 👋 I'm **Boateng Elvis**, a passionate software engineer dedicated to building solutions that *matter*.  
 
-I transform ideas into **beautiful, functional, and impactful products**.  
-I believe technology should **empower people** and make life better.  
-I’m not just a coder—I’m a **problem solver**, a **creative thinker**, and a **lifelong learner**.  
+I turn ideas into **beautiful, functional, and impactful products**.  
+I believe technology should **empower people** and improve lives.  
+I'm not just a coder—I’m a **problem solver**, **creative thinker**, and **lifelong learner**.
 
 ---
 
 ## 🗺️ My Mission
 
-> *Use technology as a force for good by designing and developing impactful, reliable, and elegant software.*
+> *Harness technology as a force for good by designing and developing impactful, reliable, and elegant software.*
 
 ---
 
@@ -55,7 +55,7 @@ I’m not just a coder—I’m a **problem solver**, a **creative thinker**, and
 ✅ AI-driven projects  
 ✅ Mobile App Development (Flutter, React Native)  
 ✅ Web Development (React, Node.js, PHP)  
-✅ Mastering MERN Stack, C#, Java, Python  
+✅ Mastering the MERN Stack, C#, Java, and Python  
 
 ---
 
@@ -72,7 +72,7 @@ I’m not just a coder—I’m a **problem solver**, a **creative thinker**, and
 ## 💼 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" alt="Tech Stack" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ I’m not just a coder—I’m a **problem solver**, a **creative thinker**, and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elvis557&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Elvis's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elvis557&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
