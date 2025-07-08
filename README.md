@@ -88,11 +88,14 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 </p>
 
 ---
-## 📊 **Yearly GitHub Activity Summary**
+---
+
+## 📅 **Contribution Heatmap Calendar**
 
 <p align="center">
-  <img src="https://github-readme-activity.vercel.app/api?username=Elvis557&show=all&theme=react-dark" alt="GitHub Activity Summary" />
+  <img src="https://github-contributions.vercel.app/api/v1/Elvis557" alt="GitHub Contribution Heatmap Calendar" />
 </p>
+
 
 ## 📊 Activity Graph
 
