@@ -89,13 +89,6 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
-## 📦 Pinned Projects
-
-<!-- Replace these with your actual GitHub repo links -->
-[![ElviMart](https://github-readme-stats.vercel.app/api/pin/?username=Elvis557&repo=ElviMart&theme=tokyonight)](https://github.com/Elvis557/ElviMart)
-[![AI-Tutor](https://github-readme-stats.vercel.app/api/pin/?username=Elvis557&repo=ai-tutor&theme=tokyonight)](https://github.com/Elvis557/ai-tutor)
-
----
 
 ## 🧠 AI & Algorithm Blog Highlights *(optional)*
 
