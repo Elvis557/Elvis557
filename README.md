@@ -92,7 +92,6 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 
 
-
 ## 📊 Activity Graph
 
 <p align="center">
