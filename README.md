@@ -1,22 +1,24 @@
-<!-- ========================== ⚡ EPIC HERO BANNER ========================== -->
+<!-- ========================== HEADER BANNER ========================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Boateng%20Elvis%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Hero Banner" />
+  <img src="https://github.com/KIRAN-KUMAR-K3/banner/blob/main/Untitled%20design.png?raw=true" alt="Banner" width="100%" style="border-radius:12px;filter:blur(0.5px) brightness(0.85);">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Boateng+Elvis;⚡+Software+Engineer+|+Innovator+|+Lifelong+Learner" alt="Typing Animation" />
-</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elvis557&style=flat-square&color=0A66C2" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Boateng+Elvis;⚡+Software+Engineer+|+Innovator+|+Lifelong+Learner" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🌟 **About Me**  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=30&fontAlignY=35&desc=Crafting%20Impactful%20Solutions%20Every%20Day%20❤️&descAlignY=60" alt="Welcome Banner" />
+</p>
 
-> 🎯 **Boateng Elvis** here—I'm not just a coder but a *problem solver*, *innovator*, and *lifelong learner*.  
-> I build **meaningful**, **elegant**, and **high-impact solutions** to **empower people through technology**.  
+---
+
+## 🌟 **About Me**
+> Hi! I'm **Boateng Elvis**, a passionate software engineer focused on creating **meaningful, elegant, and high-impact solutions**.  
+> I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong learner**.  
+> My mission? **Empower people through technology**.
 
 ---
 
@@ -28,7 +30,7 @@
 
 ---
 
-## 🧭 **Core Values**  
+## 🧭 **Core Values**
 ✅ Quality over quantity  
 ✅ Empathy-driven design  
 ✅ Relentless learning  
@@ -45,7 +47,7 @@
 
 ---
 
-## 📫 **Connect with Me**  
+## 📫 **Connect with Me**
 <p align="center">
   <a href="mailto:elvisboateng557@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -61,20 +63,24 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elvis557&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 ---
 
-## 📈 **GitHub Stats & Activity**  
+## 📈 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvis557&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvis557&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elvis557&show_icons=true&theme=tokyonight_duo&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elvis557&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis557&layout=compact&theme=tokyonight_duo&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis557&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -82,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elvis557&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elvis557&theme=tokyonight" alt="Activity Graph" />
 </p>
 
 ---
@@ -106,14 +112,14 @@
 
 ---
 
-## 💡 **Developer Quote**  
+## 💡 **Developer Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 </p>
 
 ---
 
-## ☕ **Support My Work**  
+## ☕ **Support My Work**
 <p align="center">
   <a href="https://www.buymeacoffee.com/Elvis">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="220" alt="Buy Me A Coffee" />
@@ -123,7 +129,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting!%20❤️&fontSize=25&animation=fadeIn" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" alt="Footer Banner" />
 </p>
 
 <p align="center">
