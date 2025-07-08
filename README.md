@@ -44,10 +44,10 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ## 🚀 Current Focus
 
-- 🤖 AI & Machine Learning Projects
-- 📱 Mobile App Development (Flutter, React Native)
-- 🌐 Web Development (React, Node.js, PHP)
-- 🔥 Mastering the MERN Stack, C#, Java, Python
+- 🤖 AI & Machine Learning Projects  
+- 📱 Mobile App Development (Flutter, React Native)  
+- 🌐 Web Development (React, Node.js, PHP)  
+- 🔥 Mastering the MERN Stack, C#, Java, Python  
 
 ---
 
@@ -61,7 +61,7 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💼 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" alt="Tech Stack Icons" />
@@ -89,16 +89,55 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
+## 📦 Pinned Projects
+
+<!-- Replace these with your actual GitHub repo links -->
+[![ElviMart](https://github-readme-stats.vercel.app/api/pin/?username=Elvis557&repo=ElviMart&theme=tokyonight)](https://github.com/Elvis557/ElviMart)
+[![AI-Tutor](https://github-readme-stats.vercel.app/api/pin/?username=Elvis557&repo=ai-tutor&theme=tokyonight)](https://github.com/Elvis557/ai-tutor)
+
+---
+
+## 🧠 AI & Algorithm Blog Highlights *(optional)*
+
+- 🔍 [Understanding Time Complexity](#)  
+- 🧮 [Recursive Algorithms Made Simple](#)  
+- 🤖 [Getting Started with AI Projects](#)  
+*(link to Medium, Dev.to, or your own blog)*
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elvis557&theme=tokyonight" alt="Activity Graph" />
+</p>
+
+---
+
+## 🔖 GitHub Metrics (Visual Summary)
+
+<p align="center">
+  <img src="https://github-metrics.vercel.app/api?username=Elvis557&theme=tokyonight&base=header,activity,community,repositories,stars" alt="Metrics" />
+</p>
+
+---
+
 ## 💬 Let's Collaborate
 
-🌱 *Open to conversations on:*  
-- Data Structures & Algorithms  
-- System Design  
-- Front-End / Back-End Development  
-- Mobile App Development  
-- AI & Machine Learning Ideas  
+🌱 Open to discussions and collaborations on:  
+- 🔢 Data Structures & Algorithms  
+- 🧱 System Design  
+- 💻 Web and App Development  
+- 🧠 AI, ML, and GPT Projects  
 
-> 💡 *Collaboration begins with a simple hello!*
+> 💡 *Great things start with a simple hello.*
+
+---
+
+## 😂 Dev Fun (optional)
+
+> *“I don't always test my code, but when I do, I do it in production.”*  
+> *— Every brave dev, ever*
 
 ---
 
