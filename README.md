@@ -106,6 +106,9 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
+
+## 📊 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elvis557&theme=tokyonight" alt="Activity Graph" />
 </p>
@@ -116,8 +119,9 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 ## 🔖 GitHub Metrics (Visual Summary)
 
 <p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=Elvis557&theme=tokyonight&base=header,activity,community,repositories,stars" alt="Metrics" />
+  <img src="https://metrics.lecoq.io/Elvis557?template=classic&base.header=0&base.community=1&base.repositories=1&base.metadata=1&languages=1&isocalendar=1&stars=1&followup=1&config.timezone=Africa%2FAccra" alt="GitHub Metrics" />
 </p>
+
 
 ---
 
