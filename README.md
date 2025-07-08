@@ -116,7 +116,7 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
-## 😂 Dev Fun (optional)
+## 😂 Dev Fun 
 
 > *“I don't always test my code, but when I do, I do it in production.”*  
 > *— Every brave dev, ever*
