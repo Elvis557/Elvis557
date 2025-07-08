@@ -90,14 +90,7 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 ---
 
 
-## 🧠 AI & Algorithm Blog Highlights *(optional)*
 
-- 🔍 [Understanding Time Complexity](#)  
-- 🧮 [Recursive Algorithms Made Simple](#)  
-- 🤖 [Getting Started with AI Projects](#)  
-*(link to Medium, Dev.to, or your own blog)*
-
----
 
 
 ## 📊 Activity Graph
@@ -109,14 +102,7 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
-## 🔖 GitHub Metrics (Visual Summary)
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Elvis557?template=classic&base.header=0&base.community=1&base.repositories=1&base.metadata=1&languages=1&isocalendar=1&stars=1&followup=1&config.timezone=Africa%2FAccra" alt="GitHub Metrics" />
-</p>
-
-
----
 
 ## 💬 Let's Collaborate
 
