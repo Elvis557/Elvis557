@@ -91,11 +91,29 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
-## 📅 **Contribution Heatmap Calendar**
+## 📊 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Elvis557&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <!-- Classic Activity Graph (Tokyonight theme) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elvis557&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </p>
+
+<p align="center">
+  <!-- Contribution Calendar Heatmap (classic style) -->
+  <img src="https://ghchart.rshah.org/0A66C2/Elvis557" alt="Contribution Calendar" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvis557&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Yearly Summary Activity Card -->
+  <img src="https://github-readme-activity.vercel.app/api?username=Elvis557&show=all&theme=react-dark" alt="GitHub Activity Summary" />
+</p>
+
+---
 
 
 ---
