@@ -106,11 +106,10 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
-## 📊 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elvis557&theme=tokyonight" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elvis557&theme=tokyonight" alt="Activity Graph" />
 </p>
+
 
 ---
 
