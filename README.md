@@ -89,7 +89,11 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
+## 📌 **Contribution Calendar**
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/0A66C2/Elvis557" alt="Elvis's GitHub Contribution Chart" />
+</p>
 
 
 
