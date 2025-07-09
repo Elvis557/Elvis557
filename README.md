@@ -141,5 +141,5 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 ---
 
 <p align="center">
-  <b>Crafted with ❤️ by Elvis Boateng.</b>
+  <b>Crafted with ❤️ by Elvis Boateng</b>
 </p>
