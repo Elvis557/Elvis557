@@ -4,7 +4,7 @@
 </p>
 
 <!-- ========================== NAME & HEADLINE ========================== -->
-<h1 align="center">👋 Hey there, I'm Boateng Elvis.</h1>
+<h1 align="center">👋 Hey there, I'm Boateng Elvis</h1>
 <h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner</h3>
 
 <!-- ========================== TYPING ANIMATION ========================== -->
