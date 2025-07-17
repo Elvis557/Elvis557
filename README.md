@@ -4,7 +4,7 @@
 </p>
 
 <!-- ========================== NAME & HEADLINE ========================== -->
-<h1 align="center">👋 Hey there, I'm Boateng Elvis</h1>
+<h1 align="center">👋 Hi there, I'm Boateng Elvis</h1>
 <h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner</h3>
 
 <!-- ========================== TYPING ANIMATION ========================== -->
@@ -36,35 +36,36 @@
 
 ## ✨ About Me
 
-Hi! I'm **Boateng Elvis**, a passionate software engineer focused on creating **meaningful, elegant, and high-impact solutions**.  
+Hi! I'm **Boateng Elvis**, a passionate software engineer dedicated to creating **meaningful, elegant, and impactful solutions**.  
 
-I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong learner**. My mission? **Empower people through technology**.
+I’m not just a developer — I’m a **problem solver**, **innovator**, and **lifelong learner**.  
+My mission? **To empower people through technology**.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🤖 AI & Machine Learning Projects  
+- 🤖 Artificial Intelligence & Machine Learning  
 - 📱 Mobile App Development (Flutter, React Native)  
-- 🌐 Web Development (React, Node.js, PHP)  
-- 🔥 Mastering the MERN Stack, C#, Java, Python  
+- 🌐 Full Stack Web Development (MERN, PHP, Laravel)  
+- 🧠 Mastering C#, Java, and Python for scalable systems  
 
 ---
 
 ## 🌟 Core Values
 
-✅ Quality over quantity  
-✅ Empathy-driven design  
-✅ Relentless learning  
-✅ Clear, honest communication  
-✅ Collaboration over competition  
+- ✅ Quality over quantity  
+- ✅ Empathy-driven design  
+- ✅ Relentless learning  
+- ✅ Clear & honest communication  
+- ✅ Collaboration over competition  
 
 ---
 
 ## 💼 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" alt="Tech Stack" />
 </p>
 
 ---
@@ -89,36 +90,31 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 
 ---
 
-
-
-
 ## 📊 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elvis557&theme=tokyonight" alt="Activity Graph" />
 </p>
 
-
 ---
 
+## 🤝 Let’s Collaborate
 
+I'm always excited to work on:
 
-## 💬 Let's Collaborate
-
-🌱 Open to discussions and collaborations on:  
 - 🔢 Data Structures & Algorithms  
-- 🧱 System Design  
-- 💻 Web and App Development  
-- 🧠 AI, ML, and GPT Projects  
+- 🧱 System Architecture & Design  
+- 💻 Web & Mobile App Projects  
+- 🧠 AI, ML, and GPT-powered Applications  
 
-> 💡 *Great things start with a simple hello.*
+> 💬 *Feel free to reach out. Great things begin with a conversation!*
 
 ---
 
-## 😂 Dev Fun 
+## 😂 Dev Humor
 
-> *“I don't always test my code, but when I do, I do it in production.”*  
-> *— Every brave dev, ever*
+> *“I don’t always test my code, but when I do, I do it in production.”*  
+> — Every brave developer, ever 💥
 
 ---
 
@@ -141,5 +137,6 @@ I'm not just a coder—I’m a **problem solver**, **innovator**, and **lifelong
 ---
 
 <p align="center">
-  <b>Crafted with ❤️ by Elvis Boateng</b>
+  <b>Crafted with ❤️ by Elvis Boateng</b><br/>
+  <sub>Let’s build something incredible together.</sub>
 </p>
