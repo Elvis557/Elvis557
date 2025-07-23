@@ -36,7 +36,7 @@
 
 ## ✨ About Me
 
-Hi! I'm **Boateng Elvis**, a passionate software engineer dedicated to creating **meaningful, elegant, and impactful solutions**.  
+Hi! I'm **Boateng Elvis**, a passionate software engineer dedicated to creating **meaningful, elegant, and impactful solutions**  
 
 I’m not just a developer — I’m a **problem solver**, **innovator**, and **lifelong learner**.  
 My mission? **To empower people through technology**.
