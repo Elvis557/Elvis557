@@ -138,5 +138,5 @@ I'm always excited to work on:
 
 <p align="center">
   <b>Crafted with ❤️ by Elvis Boateng</b><br/>
-  <sub>Let’s build something incredible together.</sub>
+  <sub>Let’s build something incredible together</sub>
 </p>
