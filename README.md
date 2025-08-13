@@ -62,7 +62,7 @@ My mission? **To empower people through technology**.
 
 ---
 
-## 💼 Tech Stack & Tools
+## 🧰 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" alt="Tech Stack" />
