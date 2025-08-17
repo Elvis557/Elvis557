@@ -61,8 +61,9 @@ I see myself as more than a developer — I’m a **problem solver**, **innovato
 ## 🧰 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,csharp,java,python,php,mysql,vercel,vite" />
 </p>
+
 
 ---
 
