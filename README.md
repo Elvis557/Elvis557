@@ -8,8 +8,9 @@
 <h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=550&lines=Empowering+people+through+code.;Building+amazing+things+🚀;Crafting+impactful+solutions.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&width=550&lines=Empowering+people+through+code.;Building+amazing+things+🚀;Crafting+impactful+solutions." alt="Typing SVG"/>
 </p>
+
 
 ---
 
@@ -109,8 +110,9 @@ I see myself as more than a developer — I’m a **problem solver**, **innovato
 ## 🐍 GitHub Snake  
 
 <p align="center">
-  <img src="https://github.com/Elvis557/Elvis557/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Elvis557/Elvis557/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
+
 
 ---
 
