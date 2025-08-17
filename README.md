@@ -112,7 +112,7 @@ I see myself as more than a developer — I’m a **problem solver**, **innovato
 ## 🐍 GitHub Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elvis557/Elvis557/main/output/github-user-contribution.svg" alt="GitHub Snake" width="600"/>
+  <img src="https://raw.githubusercontent.com/Elvis557/Elvis557/main/output/github-user-contribution.svg" alt="GitHub Snake" width="800"/>
 </p>
 
 
