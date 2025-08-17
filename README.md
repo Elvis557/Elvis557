@@ -63,6 +63,24 @@ I see myself as more than a developer — I’m a **problem solver**, **innovato
 
 ---
 
+## 🚀 Featured Projects  
+
+- [🌍 A1 Opportunities Africa](https://github.com/Elvis557/A1-OPPORTUNITIES-AFRICA) – Digital platform for international travel, study abroad, and visa assistance.  
+- [🛒 ElviMart](https://github.com/Elvis557/ElviMart-E-commerce-Site) – Modern e-commerce application built with React + Bootstrap.  
+- [📚 Portfolio Website](https://github.com/Elvis557/PERSONAL-WEBSITE) – My personal portfolio showcasing skills & work.  
+
+---
+
+## 🎯 Goals for 2025  
+
+- ✅ Contribute to **open-source AI & ML projects**  
+- ✅ Launch my **own SaaS product**  
+- ✅ Publish at least **2 technical blogs**  
+- ✅ Mentor **junior developers** and share knowledge  
+- ✅ Achieve **AWS/Azure cloud certification**  
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -84,6 +102,14 @@ I see myself as more than a developer — I’m a **problem solver**, **innovato
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elvis557&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 GitHub Snake  
+
+<p align="center">
+  <img src="https://github.com/Elvis557/Elvis557/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
