@@ -155,6 +155,6 @@ I’m open to collaborating on:
 ---
 
 <p align="center">
-  <b>Crafted with ❤️ by Elvis Boateng</b><br/>
+  <b>Crafted with ❤️ by Elvis Boateng.</b><br/>
   <sub>Let’s build something incredible together 🚀</sub>
 </p>
