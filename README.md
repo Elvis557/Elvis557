@@ -8,16 +8,15 @@
 <h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&width=550&lines=Empowering+people+through+code.;Building+amazing+things+🚀;Crafting+impactful+solutions." alt="Typing SVG"/>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&width=550&lines=Empowering+people+through+code.;Building+amazing+things+🚀;Crafting+impactful+solutions.)
 </p>
-
 
 ---
 
 <!-- ========================== CONTACT BADGES ========================== -->
 <p align="center">
   <a href="mailto:elvisboateng557@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/elvis-boateng-boampong-3b6264341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elvis-boateng-boampong-3b6264341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.leetcode.com/el-wise557"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="http://www.youtube.com/@ElvisBoateng-q1u"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
@@ -110,9 +109,8 @@ I see myself as more than a developer — I’m a **problem solver**, **innovato
 ## 🐍 GitHub Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elvis557/Elvis557/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  ![GitHub Snake Animation](https://raw.githubusercontent.com/Elvis557/Elvis557/output/github-contribution-grid-snake.svg)
 </p>
-
 
 ---
 
