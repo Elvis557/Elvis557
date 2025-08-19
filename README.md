@@ -7,12 +7,10 @@
 <h1 align="center">👋 Hi, I'm Boateng Elvis</h1>
 <h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner</h3>
 
-
 <!-- ========================== TYPING ANIMATION ========================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
 </p>
-
 
 ---
 
@@ -25,17 +23,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elvis557&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Elvis557&style=flat-square&color=0A66C2" alt="Profile Views" />
 </p>
 
 ---
 
 ## ✨ About Me  
 
-Hi, I’m **Boateng Elvis**, a passionate **software engineer** who loves creating **elegant, impactful, and scalable solutions**.  
-I see myself as more than a developer — I’m a **problem solver**, **innovator**, and **lifelong learner**.  
+I’m **Boateng Elvis**, a passionate **Software Engineer** who thrives on crafting **elegant, impactful, and scalable solutions**.  
+Beyond just writing code, I see myself as a **problem solver, innovator, and lifelong learner**.  
 
-🚀 *Mission: To empower people through technology.*  
+🚀 *Mission: Empowering people through technology.*  
 
 ---
 
@@ -64,18 +62,17 @@ I see myself as more than a developer — I’m a **problem solver**, **innovato
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,figma,git,github,java,python,php,mysql,vercel,vite" />
 </p>
 
-
 ---
 
 ## 🚀 Featured Projects  
 
-- [🌍 A1 Opportunities Africa](https://github.com/Elvis557/A1-OPPORTUNITIES-AFRICA) – Digital platform for international travel, study abroad, and visa assistance.  
-- [🛒 ElviMart](https://github.com/Elvis557/ElviMart-E-commerce-Site) – Modern e-commerce application built with React + Bootstrap.  
-- [📚 Portfolio Website](https://github.com/Elvis557/PERSONAL-WEBSITE) – My personal portfolio showcasing skills & work.  
+- [🌍 **A1 Opportunities Africa**](https://github.com/Elvis557/A1-OPPORTUNITIES-AFRICA) – Platform for international travel, study abroad, and visa assistance.  
+- [🛒 **ElviMart**](https://github.com/Elvis557/ElviMart-E-commerce-Site) – Modern e-commerce application built with React + Bootstrap.  
+- [📚 **Portfolio Website**](https://github.com/Elvis557/PERSONAL-WEBSITE) – My personal portfolio showcasing skills & projects.  
 
 ---
 
-## 🎯 Goals for 2025  
+## 🎯 2025 Goals  
 
 - ✅ Contribute to **open-source AI & ML projects**  
 - ✅ Launch my **own SaaS product**  
@@ -116,7 +113,6 @@ I see myself as more than a developer — I’m a **problem solver**, **innovato
   <img src="https://raw.githubusercontent.com/Elvis557/Elvis557/main/output/github-user-contribution.svg" alt="GitHub Snake" width="800"/>
 </p>
 
-
 ---
 
 ## 🤝 Let’s Collaborate  
@@ -127,7 +123,7 @@ I’m open to collaborating on:
 - 💻 Web & Mobile Applications  
 - 🧠 AI, ML, and GPT-powered Projects  
 
-💬 *Let’s connect — great things start with a conversation!*  
+💬 *Great things start with a conversation — let’s connect!*  
 
 ---
 
