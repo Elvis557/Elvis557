@@ -4,7 +4,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=BOATENG%20ELVIS&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Innovator%20%7C%20Lifelong%20Learner&descAlignY=65&descSize=18)
 
 <!-- ========================== ENHANCED TYPING ANIMATION ========================== -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🚀+Empowering+people+through+code;⚡+Building+amazing+things;✨+Crafting+impactful+solutions;💡+Transforming+ideas+into+reality" alt="Enhanced Typing Animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
+</p>
 
 <!-- ========================== PREMIUM CONTACT SECTION ========================== -->
 <div style="margin: 30px 0;">
