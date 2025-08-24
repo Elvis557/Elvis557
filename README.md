@@ -14,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/📧_elvisboateng557@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:elvisboateng557@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/elvis-boateng-boampong-3b6264341/)
 [![LeetCode](https://img.shields.io/badge/🧩_Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000)](https://www.leetcode.com/el-wise557)
-[![YouTube](https://img.shields.io/badge/🎥_Tech_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000)](http://www.youtube.com/@ElvisBoateng-q1u)
+[![YouTube](https://img.shields.io/badge/🎥_Animation_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000)](http://www.youtube.com/@ElvisBoateng-q1u)
 
 </div>
 
