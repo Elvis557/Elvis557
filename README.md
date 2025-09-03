@@ -215,7 +215,7 @@ graph LR
 ---
 
 **🚀 Crafted with passion by Elvis Boateng**  
-*Building the future, one commit at a time.*
+*Building the future, one commit at a time*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling)
 
