@@ -1,10 +1,10 @@
-<!-- ========================== HEADER BANNER ========================== -->
+GB<!-- ========================== HEADER BANNER ========================== -->
 <p align="center">
   <img src="https://github.com/KIRAN-KUMAR-K3/banner/blob/main/Untitled%20design.png?raw=true" alt="Banner" width="100%" style="border-radius:12px;">
 </p>
 
 <!-- ========================== INTRO ========================== -->
-<h1 align="center">👋 Hi, I'm Boateng Elvis.</h1>
+<h1 align="center">👋 Hi, I'm Boateng Elvis</h1>
 <h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner</h3>
 
 <!-- ========================== TYPING ANIMATION ========================== -->
