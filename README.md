@@ -23,7 +23,7 @@
   <a href="https://www.leetcode.com/el-wise557">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.youtube.com/@EL-Dev">
+  <a href="http://www.youtube.com/@elvisanimations">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
