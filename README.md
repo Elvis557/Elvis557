@@ -42,7 +42,8 @@ Beyond just writing code, I see myself as a *problem solver, innovator, and life
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📱 Mobile App Development (Flutter, React Native)  
 - 🌐 Full Stack Development (MERN, PHP, Laravel)  
-- 🧠 Mastering C#, Java & Python for scalable systems  
+- 🧠 Mastering C#, Java & Python for scalable systems
+- 🚀 Master YouTube Animation
 
 ---
 
