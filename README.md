@@ -79,7 +79,7 @@ Beyond just writing code, I see myself as a *problem solver, innovator, and life
 - ✅ Launch my *own SaaS product*  
 - ✅ Publish at least *2 technical blogs*  
 - ✅ Mentor *junior developers* and share knowledge  
-- ✅ Achieve *AWS/Azure cloud certification*  
+- ✅ Get hired by Speechify
 
 ---
 
