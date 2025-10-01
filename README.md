@@ -53,7 +53,8 @@ Beyond just writing code, I see myself as a *problem solver, innovator, and life
 ✅ Empathy-driven design  
 ✅ Relentless learning  
 ✅ Clear communication  
-✅ Collaboration over competition  
+✅ Collaboration over competition
+✅ Hardwork + working smart
 
 ---
 
