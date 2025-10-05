@@ -43,7 +43,7 @@ Beyond just writing code, I see myself as a *problem solver, innovator, and life
 - 📱 Mobile App Development (Flutter, React Native)  
 - 🌐 Full Stack Development (MERN, PHP, Laravel)  
 - 🧠 Mastering C#, Java & Python for scalable systems
-- 🚀 Master YouTube Animation
+- 🚀 Master YouTube Animation and make sure I gain over 1k subs
 
 ---
 
