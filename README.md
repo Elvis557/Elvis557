@@ -58,7 +58,8 @@ My mission? **To empower people through technology**.
 - ✅ Empathy-driven design  
 - ✅ Relentless learning  
 - ✅ Clear & honest communication  
-- ✅ Collaboration over competition  
+- ✅ Collaboration over competition
+- ✅ let love lead
 
 ---
 
