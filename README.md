@@ -5,7 +5,7 @@
 
 <!-- ========================== INTRO ========================== -->
 <h1 align="center">👋 Hi, I'm Boateng Elvis</h1>
-<h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner | vibe coder </h3>
+<h3 align="center">⚡ Software Engineer | Innovator | Lifelong Learner </h3>
 
 <!-- ========================== TYPING ANIMATION ========================== -->
 <p align="center">
