@@ -80,7 +80,7 @@ Beyond just writing code, I see myself as a *problem solver, innovator, and life
 - ✅ Launch my *own SaaS product*  
 - ✅ Publish at least *2 technical blogs*  
 - ✅ Mentor *junior developers* and share knowledge  
-- ✅ Get hired by Speechify
+- ✅ Get a permanent job either remote or in-person 
 
 ---
 
